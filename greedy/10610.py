@@ -15,3 +15,4 @@ if sumNum % 3 == 0 and '0' in num:
         print(num[i],end='')
 else :
     print(-1)
+
